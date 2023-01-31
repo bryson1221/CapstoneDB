@@ -31,6 +31,9 @@ SET pos = 3, total_DKP = 123, sg_putt = 4.4, sg_arg = 3.7, sg_app = 2.1, sg_ott 
 
 WHERE player = 'John Johnson';
 
+![image](https://user-images.githubusercontent.com/76411302/215842984-fd092e9d-559d-4164-aef0-1a3fcc924483.png)
+
+
 # DELETE
 
 I deleted rows that contained 'NA' to clear more clutter. This decreased the database to 213 rows:
@@ -52,6 +55,9 @@ ALTER TABLE dkstats DROP COLUMN DKdate;
 ALTER TABLE dkstats DROP COLUMN no_cut;
 
 ALTER TABLE dkstats DROP COLUMN pos;
+
+![image](https://user-images.githubusercontent.com/76411302/215843084-a19341fe-ae5d-4903-aace-9b0f76421809.png)
+
 
 # SECURITY
 
