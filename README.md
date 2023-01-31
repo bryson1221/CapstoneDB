@@ -1,5 +1,5 @@
 # CapstoneDB
-Database for my Database portion of my CS Capstone course. I showcase my ability to completed CRUD operations.
+Database for my Database portion of my CS Capstone course. I showcase my ability to complete CRUD operations & implement a security feature.
 
 # CREATE
 
