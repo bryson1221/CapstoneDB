@@ -53,3 +53,6 @@ ALTER TABLE dkstats DROP COLUMN no_cut;
 
 ALTER TABLE dkstats DROP COLUMN pos;
 
+# SECURITY
+
+Because I am using DB Browser SQLITE - I have some limited options for security measures. I decided to add password encryption to my zip file that will block anyone access without the password.
